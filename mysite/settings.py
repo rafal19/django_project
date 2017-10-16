@@ -25,7 +25,7 @@ SECRET_KEY = 'wo5wr839v9mq0oi5ogsn-&p*70s6rqqiwrugh8c@p4@eb)xk8p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rafal19.pythonanywhere.com']
 
 
 # Application definition
